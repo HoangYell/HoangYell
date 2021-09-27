@@ -8,8 +8,8 @@ You can use the website to generate badges: https://shields.io/
 [![Twitter](https://img.shields.io/badge/-Twitter-00b8d4?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hoangyell/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngohoangyell/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ngohoang.yell/)
-[![Stackoverflow](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://stackoverflow.com/users/3927279/hoangyell/)
-[![Fiverr](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.fiverr.com/hoangyell/)
+[![Stackoverflow](https://img.shields.io/badge/-StackOverFlow-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://stackoverflow.com/users/3927279/hoangyell/)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.fiverr.com/hoangyell/)
 
 
 &nbsp;
