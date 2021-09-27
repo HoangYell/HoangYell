@@ -4,11 +4,12 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/EliasOPrado) -->
-[![Twitter](https://img.shields.io/badge/-Twitter-00b8d4?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_0liver_Prad0)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elias-oliveira-prado-48725297/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/25mrprado25/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:eliaspradoprofessional@outlook.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ngohoangyell/)
+[![Twitter](https://img.shields.io/badge/-Twitter-00b8d4?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hoangyell/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ngohoangyell/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ngohoang.yell/)
+[![Stackoverflow](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://stackoverflow.com/users/3927279/hoangyell/)
+[![Fiverr](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.fiverr.com/hoangyell/)
 
 
 &nbsp;
@@ -20,8 +21,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="20%" align="right" margin-right="500px" alt="Github" src="https://user-images.githubusercontent.com/39608843/134754993-9edc27b5-9d83-4f53-ac75-d472b4a1efc5.png" />
 <br />
 
-- ⭕ 👨🏽‍💻 Code Institute Diploma;
-- 💻 Working at Samplemed; 
+- 👨🏽 I love Regex and Python;
+- 💻 Working at Yellorn; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [yell@yellorn.com](mailto:yell@yellorn.com)
 
