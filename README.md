@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm HoangYell, a Vietnames🇻🇳Developer 🚀.
+## Hi, I'm HoangYell, a Vietnamese🇻🇳Developer 🚀.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
