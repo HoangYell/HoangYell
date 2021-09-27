@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 <!-- Any image aligned to the right. Beware the width -->
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
-<img width="20%" align="right" margin-right="500px" alt="Github" src="https://user-images.githubusercontent.com/39608843/134754993-9edc27b5-9d83-4f53-ac75-d472b4a1efc5.png" />
+<!-- <img width="20%" align="right" margin-right="500px" alt="Github" src="" /> -->
 <br />
 
 - 👨🏽 I love Regex and Python;
