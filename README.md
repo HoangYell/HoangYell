@@ -10,6 +10,7 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ngohoang.yell/)
 [![Stackoverflow](https://img.shields.io/badge/-StackOverFlow-f48225?style=flat&labelColor=f48225&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3927279/hoangyell/)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&labelColor=1dbf73&logo=fiverr&logoColor=white)](https://www.fiverr.com/hoangyell/)
+![Views](https://komarev.com/ghpvc/?username=ngohoangyell&color=brightgreen)
 
 
 &nbsp;
