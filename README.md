@@ -30,9 +30,9 @@ You can use the website to generate badges: https://shields.io/
    **Languages and Tools:** 
 
 <p>
-    <img width="50%" align="right" alt="ngohoangyell's github stats:" src="https://github-readme-stats.vercel.app/api?username=ngohoangyell&how_icons=true&hide_border=true" />
+    <img width="50%" align="right" alt="hoangyell's github stats:" src="https://github-readme-stats.vercel.app/api?username=hoangyell&how_icons=true&hide_border=true" />
     
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngohoangyell&layout=compact)](https://github.com/ngohoangyell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangyell&layout=compact)](https://github.com/hoangyell/github-readme-stats)
 
 </p>
