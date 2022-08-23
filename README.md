@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽 I love Regex and Python;
 - 💻 Working at Yellorn; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [yell@yellorn.com](mailto:yell@yellorn.com)
+- 📫 How to reach me: [hoangyell@yellorn.com](mailto:hoangyell@yellorn.com)
 
    **Languages and Tools:** 
 
