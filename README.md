@@ -27,9 +27,3 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [hoangyell@yellorn.com](mailto:hoangyell@yellorn.com)
 
-   **Languages and Tools:** 
-
-<p>
-    <img width="50%" align="right" alt="hoangyell's github stats:" src="https://github-readme-stats.vercel.app/api?username=hoangyell&how_icons=true&hide_border=true" />
-    
-</p>
