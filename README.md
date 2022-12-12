@@ -1,29 +1,45 @@
-<!-- Your title -->
-## Hi, I'm HoangYell, a Vietnamese🇻🇳Developer 🚀.
+<h1 align="center">Hi 👋, I'm HoangYell</h1>
+<h3 align="center">A lazy Python developer from Vietnam 🇻🇳</h3>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hoangyell/)
-[![Twitter](https://img.shields.io/badge/-Twitter-00b8d4?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hoangyell/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hoangyell/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/hoangyell/)
-[![Stackoverflow](https://img.shields.io/badge/-StackOverFlow-f48225?style=flat&labelColor=f48225&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3927279/hoangyell/)
-[![Fiverr](https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&labelColor=1dbf73&logo=fiverr&logoColor=white)](https://www.fiverr.com/hoangyell/)
-![Views](https://komarev.com/ghpvc/?username=hoangyell&color=brightgreen)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangyell&label=Profile%20views&color=brightgreen&style=flat" alt="hoangyell" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangyell" alt="hoangyell" /></a> </p>
 
-&nbsp;
+<p align="left"> <a href="https://twitter.com/hoangyell" target="blank"><img src="https://img.shields.io/twitter/follow/hoangyell?logo=twitter&style=for-the-badge" alt="hoangyell" /></a> </p>
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-<!-- Any image aligned to the right. Beware the width -->
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
-<!-- <img width="20%" align="right" margin-right="1000px" alt="Github" src="" /> -->
-<br />
 
-- 👨🏽 I love Regex and Python;
-- 💻 Working at Yellorn; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [hoangyell@yellorn.com](mailto:hoangyell@yellorn.com)
+- 🔭 I’m currently working on [Yellorn](yellorn.com)
 
+- 👯 I’m looking to collaborate on [Regex](https://fiverr.com/users/hoangyell)
+
+- 📝 I regularly write articles on [hoangyell.com](hoangyell.com)
+
+- 💬 Ask me about **Python, Regex**
+
+- 📫 How to reach me **hoangyell@yellorn.com**
+
+- ⚡ Fun fact **I'm lazy and I know it!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hoangyell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoangyell" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hoangyell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoangyell" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3927279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3927279" height="30" width="40" /></a>
+<a href="https://fb.com/hoangyell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoangyell" height="30" width="40" /></a>
+<a href="https://instagram.com/hoangyell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hoangyell" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hoangyell"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hoangyell" /></a></p><br><br>
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangyell&show_icons=true&locale=en" alt="hoangyell" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangyell&" alt="hoangyell" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangyell&show_icons=true&locale=en&layout=compact" alt="hoangyell" /></p>
