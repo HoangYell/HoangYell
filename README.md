@@ -42,6 +42,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangyell&" alt="hoangyell" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangyell&show_icons=true&locale=en&layout=compact" alt="hoangyell" /></p>
-
-
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/352522?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
