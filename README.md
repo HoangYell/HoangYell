@@ -25,8 +25,6 @@
 <a href="https://stackoverflow.com/users/3927279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3927279" height="30" width="40" /></a>
 <a href="https://fb.com/hoangyell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoangyell" height="30" width="40" /></a>
 <a href="https://instagram.com/hoangyell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hoangyell" height="30" width="40" /></a>
-
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/352522?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
