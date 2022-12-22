@@ -5,6 +5,7 @@
 <p align="left"> <a href="https://twitter.com/hoangyell" target="blank"><img src="https://img.shields.io/twitter/follow/hoangyell?logo=twitter&style=for-the-badge" alt="hoangyell" /></a> </p>
 
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
+<img width="33.3%" align="right" alt="Github" src="https://miro.medium.com/max/640/0*evmLhosdjwZaWZms" />
 
 - 🔭 I’m currently working on [Yellorn](https://yellorn.com)
 
