@@ -34,6 +34,10 @@
 
 ---
 
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangyell&label=views&color=blue&style=flat" alt="hoangyell" /> </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hoangyell&theme=transparent)](https://git.io/streak-stats)
