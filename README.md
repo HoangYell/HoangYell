@@ -33,10 +33,13 @@
 <p><a href="https://www.buymeacoffee.com/hoangyell"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hoangyell" /></a></p><br><br>
 
 ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangyell&label=views&color=blue&style=flat" alt="hoangyell" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangyell&show_icons=true&locale=en" alt="hoangyell" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=hoangyell&theme=transparent)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangyell&" alt="hoangyell" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangyell&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoangyell&theme=transparent)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangyell&show_icons=true&locale=en&layout=compact" alt="hoangyell" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangyell&theme=transparent)
+
