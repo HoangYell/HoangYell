@@ -6,17 +6,15 @@
 
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
 
-- 🔭 I’m currently working on [Yellorn](https://yellorn.com)
+- ⚡ **I’m lazy but I wanna be busy!**
 
-- 👯 I’m looking to collaborate on [Regex](https://fiverr.com/users/hoangyell)
+- 🔭 I’m currently working on [Paradox](https://paradox.ai/)
 
 - 📝 I regularly write articles on [hoangyell.com](https://hoangyell.com)
 
 - 💬 Ask me about **Python, Regex**
 
 - 📫 How to reach me: **hoangyell@yellorn.com**
-
-- ⚡ Fun fact **I'm lazy and I know it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
