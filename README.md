@@ -6,15 +6,15 @@
 
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
 
-- ⚡ **I’m lazy but I wanna be busy!**
+- 🦥 **I’m lazy but I wanna be busy!**
+
+- 🧙‍♂️ I'm a Python-devotee and Regex-wizard
+
+- 📝 I'm an occasional blogger at [hoangyell.com](https://hoangyell.com)
 
 - 🔭 I’m currently working on [Paradox](https://paradox.ai/)
 
-- 📝 I regularly write articles on [hoangyell.com](https://hoangyell.com)
-
-- 💬 Ask me about **Python, Regex**
-
-- 📫 How to reach me: **hoangyell@yellorn.com**
+- 📫 I will code for cash, ping me at: **hoangyell@yellorn.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
