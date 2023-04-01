@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HoangYell</h1>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&width=600&height=55&lines=A+lazy+Python+developer+from+Vietnam+🇻🇳" alt="hoangyell" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&width=600&height=55&lines=A+Python+developer+from+Vietnam+🇻🇳" alt="hoangyell" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangyell" alt="hoangyell" /></a> </p>
 <p align="left"> <a href="https://twitter.com/hoangyell" target="blank"><img src="https://img.shields.io/twitter/follow/hoangyell?logo=twitter&style=for-the-badge" alt="hoangyell" /></a> </p>
