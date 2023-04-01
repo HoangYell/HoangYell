@@ -12,7 +12,7 @@
 
 - 📝 I'm an occasional blogger at [hoangyell.com](https://hoangyell.com)
 
-- 🔭 I’m currently working on [Paradox](https://paradox.ai/)
+- 🔭 I’m currently working on [Paradox.ai](https://paradox.ai/)
 
 - 📫 I will code for cash, ping me at: **hoangyell@yellorn.com**
 
