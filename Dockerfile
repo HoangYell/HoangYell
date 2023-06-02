@@ -2,8 +2,6 @@ FROM node:14.18.0-alpine
 
 LABEL maintainer="Wajahat Karim (https://wajahatkarim.com)"
 
-ARG NODE_VERSION=14
-FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:0-${NODE_VERSION}
 # Get Hugo Version
 ARG HUGO_VERSION=0.87.0
 
