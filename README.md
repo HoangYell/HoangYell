@@ -7,11 +7,14 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=900&center=true&vCenter=true&color=F7971E&width=800&height=70&lines=Hey+there!+I'm+HoangYell+%F0%9F%91%8B;Python+Wizard+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Regex+Master+%F0%9F%94%AE+%7C+AI+Whisperer+%F0%9F%A4%96;Powered+by+Energy+Drinks+%E2%9A%A1+and+Stack+Overflow+%F0%9F%92%BB;Turning+Bugs+into+Features+Since+2015+%F0%9F%90%9B%E2%9E%A1%EF%B8%8F%E2%9C%A8" alt="HoangYell Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=900&center=true&vCenter=true&color=F7971E&width=800&height=70&lines=Hey+there!+I'm+HoangYell+%F0%9F%91%8B;Python+Wizard+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Regex+Master+%F0%9F%94%AE+%7C+AI+Survivor+%F0%9F%A4%96;Turning+Bugs+into+Features+%F0%9F%90%9B%E2%9E%A1%EF%B8%8F%E2%9C%A8" alt="HoangYell Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJqdWY3Y3Q2bGpjb3Z3d2w4a3F4d2U4ajZ3bDg0dGdjbjUzdjFpeCZlcD12MSZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="60" alt="wave" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hoangyell&label=Profile+views&color=F7971E&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Bug_Status-It's_a_feature!-00D4AA?style=flat-square&logo=checkmarx" alt="Bug Status" />
   <img src="https://img.shields.io/badge/Code_Quality-Mostly_Works-yellow?style=flat-square&logo=codacy" alt="Code Quality" />
@@ -35,130 +38,137 @@
   </a>
 </p>
 
-<img width="37%" align="right" alt="Coder GIF" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
-
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 `$ whoami && echo $SKILLS`
 
-```bash
-hoang@dev:~$ cat /proc/self/status
-```
-
-- 🐍 **Python Sage** who dreams in list comprehensions
-- 🧙‍♂️ **Regex Wizard** - can parse the unparseable  
-- 🤯 **AI Whisperer** (learning so the AI doesn't take my job... yet!)
-- 🎯 **Bug Hunter** → **Feature Creator** (it's all about perspective!)
-- 🚀 **Performance Optimizer** (making slow code... less slow)
-- 📝 **Digital Storyteller** at [hoangyell.com](https://hoangyell.com)
-- 🔥 **Currently breaking things at:** [Paradox.ai](https://paradox.ai/)
-- 💰 **Available for hire!** Will code for pizza, energy drinks, or interesting problems
-
-```python
-def contact_me():
-    return "hoangyell@yellorn.com"  # Slide into my inbox!
-```
-
----
-
-### 🛠️ Tech Arsenal & Pythonic Superpowers
-
 ```python
 class HoangYell(Developer):
-    languages = ["Python", "JavaScript", "SQL", "Regex", "YAML"]
+    languages = ["Python", "JavaScript", "SQL", "Regex"]
     frameworks = ["Django", "Hugo", "Unity"]
     databases = ["MongoDB", "MySQL", "Redis", "Firebase"]
     cloud = ["AWS", "Firebase", "Heroku"]
-    tools = ["Git", "Jenkins", "Postman", "Selenium", "VS Code"]
+    tools = ["Git", "Jenkins", "Postman", "Selenium"]
     superpowers = [
         "Debugging at 3 AM",
-        "Regex incantations",
+        "Regex incantations", 
         "Stack Overflow Archaeologist",
-        "Meme-driven development",
+        "Meme-driven development"
     ]
-    current_mood = "Optimistically debugging"
-
+    
     def deploy(self):
-        print("Ship it! 🚀 (What could go wrong?)")
+        return "Ship it! 🚀 (YOLO!)"
 
     def handle_bugs(self, bug):
-        print(f"Feature: {bug.description} 🎉")
-
-    def resist_ai_takeover(self):
-        print("Learning new things so AI doesn't take my job... or at least becomes my intern 😜")
+        return f"Feature: {bug.description} 🎉"
 ```
 
-*Remember, if you don't keep up with tech, AI will do your job for you... and probably ask you to review its pull request!*
+**Currently doing:**
+- 🐍 Dreaming in list comprehensions
+- 🧙‍♂️ Parsing the unparseable with regex
+- 🎯 Turning bugs into features 
+- 🔥 Breaking things at [Paradox.ai](https://paradox.ai/)
+- 📝 Writing at [hoangyell.com](https://hoangyell.com)
+- 💰 Available for hire!
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://gohugo.io/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-</p>
+```python
+def contact_me():
+    return "hoangyell@gmail.com"
+```
+
+</td>
+<td width="50%">
+
+<img align="center" alt="Coder GIF" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
+
+### 🎯 Fun Facts
+
+```bash
+# My daily routine
+while developer.is_alive():
+    developer.drink_energy_drink()
+    developer.write_code()
+    developer.debug_code()  # Always
+    developer.commit("Fixed that thing")
+    if developer.energy_level < 20:
+        developer.browse_memes()
+    developer.sleep(hours=random.randint(3, 7))
+```
+
+- 🎮 **Side quests:** Unity & Blender
+- 🔍 **Philosophy:** "It works on my machine"
+- 📚 **Learning:** Keeping up with AI
+- 🎯 **Goal:** Clean code for future me
+- 🐛 **Superpower:** Finding edge cases
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 Git Stats && Random Numbers
+### 🛠️ Tech Arsenal
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=hoangyell&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </a>
+<div align="center">
+
+**Languages & Frameworks**
+<p>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://gohugo.io/" target="_blank"><img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangyell&theme=transparent" alt="Repos Per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoangyell&theme=transparent" alt="Stats" />
+**Cloud & Infrastructure**
+<p>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://heroku.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangyell&theme=transparent" alt="Profile Details" />
+**Databases & Tools**
+<p>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
+
+**Dev Tools & Others**
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
+</p>
+
+</div>
+
+---
+
+### 📊 Git Stats
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=hoangyell&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangyell&theme=transparent" alt="Repos Per Language" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoangyell&theme=transparent" alt="Stats" />
+
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangyell&theme=transparent" alt="Profile Details" />
+
+</div>
 
 ---
 
@@ -167,49 +177,52 @@ class HoangYell(Developer):
 ```python
 # My daily routine
 while developer.is_alive():
-    developer.drink_energy_drink()
+    developer.drink_water()
     developer.write_code()
     developer.test_code()  # Sometimes
     developer.debug_code()  # Always
     developer.commit_with_message("Fixed that thing")
     if developer.energy_level < 20:
         developer.browse_memes()
-    developer.sleep(hours=random.randint(3, 7))
+    developer.sleep(hours=random.randint(3, 6))
 ```
 
-- 🎮 **Side quests:** Unity game dev & Blender wizardry
-- 🔍 **Debugging philosophy:** "It works on my machine" ¯\\\_(ツ)_/¯
-- 📚 **Learning:** Always picking up new tech (currently obsessing over AI/ML)
-- 🤖 **AI Reality:** If you don't learn AI, you'll end up fixing bugs for AI's code!
-- 🎯 **Goal:** Write code so clean that even my future self won't hate me
-- 🐛 **Superpower:** Finding edge cases nobody asked for
+- 🎮 Side quests: Unity game dev & Blender wizardry  
+- 🔍 Debugging philosophy: "It works on my machine" ¯\\_(ツ)_/¯  
+- 📚 Always picking up new tech (and keeping an eye on AI, just in case)  
+- 🎯 Goal: Write code so clean that even my future self won't hate me  
+- 🐛 Superpower: Finding edge cases nobody asked for  
 
 ---
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/hoangyell" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_An-Energy_Drink-FF813F?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" alt="Buy Me An Energy Drink" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/hoangyell" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_An-Energy_Drink-FF813F?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" alt="Buy Me An Energy Drink" />
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 <!-- Obligatory developer cat break 🐱 -->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="cat typing" />
-  <br>
-  <em>^ Accurate representation of me coding at 2 AM</em>
-</p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="cat typing" />
+<br>
+<em>^ Accurate representation of me coding at 2 AM</em>
+
+</div>
 
 ---
 
 ### 💭 Developer Wisdom
 
-> _"There are only 10 types of people in this world: those who understand binary and those who don't."_
+> *"There are only 10 types of people in this world: those who understand binary and those who don't."*
 > 
-> _"I turn energy drinks into code and bugs into 'undocumented features'."_
+> *"I turn energy drinks into code and bugs into 'undocumented features'."*
 > 
-> _"99 little bugs in the code, 99 little bugs... Take one down, patch it around, 117 little bugs in the code."_ 🎵
+> *"99 little bugs in the code, 99 little bugs... Take one down, patch it around, 117 little bugs in the code."* 🎵
 
 > **PS:** Stay curious, keep learning, and remember:  
 > If you don't keep up with AI, you'll be writing code reviews for robots. 🤖
